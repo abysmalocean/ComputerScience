@@ -1,0 +1,4 @@
+def arrange(A):
+    for i in range(A)
+    
+    
